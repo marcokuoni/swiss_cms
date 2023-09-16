@@ -45,7 +45,7 @@ Open Source and community driven. Every code can be reviewed, issued and contrib
 
 ### Filehandling
 Run on WASM-Container?
-* [SeaweedFS] (https://seaweedfs.github.io/)
+* [SeaweedFS](https://seaweedfs.github.io/)
 
 ### Database
 Run on WASM-Container?
