@@ -7,6 +7,10 @@ Steps done
 5. was not working so installed wasm32-wasi `rustup target add wasm32-wasi` and tryied again
 6. built it for docker `docker buildx build --platform wasi/wasm -t rust-example-hello .`
 7. was not working, so i used `docker build -t rust-example-hello-marco:0.1 .`
+8. SOLUTION:
+9. `docker buildx create --name wasm-builder --platform wasi/wasm,linux/amd64`
+10. `docker buildx use wasm-builder`
+11. `docker buildx build --platform wasi/wasm -t rust-example-hello .`
 
 
 
