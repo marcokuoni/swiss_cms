@@ -24,6 +24,7 @@ Open Source and community driven. Every code can be reviewed, issued and contrib
 * Inline editing for pages
 * Swiss law contracts and reconnaissance included in the system
 * Good software design with package managements. But only proofed packages can be installed
+* Be prepared to deploy on every plattform (Internet Computer, Cloud, OnPremise, Edge, IoT, Mobile, Desktop, Server, ...)
 
 ## Stack
 ### Webassembly Runtimes
