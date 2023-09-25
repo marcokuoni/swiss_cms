@@ -1,7 +1,9 @@
 # Secure and Fast Swiss CMS
+!! This is still a draft !!
 
 ## Introduction
 Community driven project to create a secure and fast Swiss CMS. With following key features build into the kernel and design:
+* [Sustainability](https://w3c.github.io/sustyweb)
 * [Security](documents/specifications/security.md)
 * Speed
 * Scalability (Portability)
